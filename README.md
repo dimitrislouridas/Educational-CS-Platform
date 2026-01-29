@@ -1,59 +1,82 @@
-# E-Learning Platform (Frontend)
+# Educational CS Platform
 
-An educational **e-learning web platform** built with **HTML, CSS and JavaScript**, designed to present structured computer science learning material in a clear and user-friendly way.
+A responsive **frontend educational platform** focused on Computer Science topics.
+This project was developed as an academic and personal project to practice modern
+frontend web development using **HTML, CSS, and JavaScript**.
 
-The website includes theoretical content, lecture-style material, multimedia elements and interactive components, simulating a simple learning management experience on the frontend.
-
----
-
-## 📚 Content & Features
-
-- Multi-page educational website structure
-- Sections covering:
-  - Object-Oriented Programming concepts
-  - Introductory Java programming material
-  - Lecture-style educational pages
-  - Educational book-style reading content
-- Embedded multimedia (images & videos)
-- Interactive forms with **JavaScript validation**
-- Clean and organized navigation between pages
+The platform provides structured learning content, including lectures, videos,
+reading materials, and interactive pages related to core Computer Science areas.
 
 ---
 
-## 🧩 Pages Included
+## 📚 Platform Content
 
-- **Home / Index**
-- **About**
-- **Categories**
-- **Java Programming**
-- **Object-Oriented Design**
-- **Lecture-style educational pages**
-- **Interactive form with validation**
+The platform includes educational material in the following areas:
 
----
+- Programming
+- Object-Oriented Programming (OOP)
+- Software Engineering
+- Databases
+- Artificial Intelligence
 
-## 🛠 Tech Stack
-
-- **HTML5**
-- **CSS3**
-- **JavaScript (Vanilla)**
-- Responsive layout principles
-- Client-side form validation
+Each category contains structured pages with learning resources such as:
+- Educational text and explanations
+- Embedded videos
+- Images and visual material
+- External learning references
 
 ---
 
-## 🎯 What I Learned
+## 🌐 Features
 
-- Structuring a multi-page frontend web application
-- Writing clean, semantic HTML and reusable CSS
-- Implementing interactive behavior with JavaScript
-- Client-side form validation and user input handling
-- Designing educational content for usability and clarity
+- Multi-page website with clear navigation
+- Client-side form validation using JavaScript
+- Clean and structured UI
+- Responsive design (mobile-friendly)
+- Reusable CSS styling
+- Organized content by category
 
 ---
 
-## ▶️ How to Run
+## 📱 Responsive Design
+
+The platform is fully **responsive** and adapts automatically to different screen sizes,
+including mobile and tablet devices, using CSS layout techniques.
+
+---
+
+## 🛠️ Tech Stack
+
+- HTML5
+- CSS3
+- JavaScript (Vanilla)
+
+---
+
+
+---
+
+## 🎯 Purpose of the Project
+
+- Practice frontend web development fundamentals
+- Design user-friendly educational interfaces
+- Apply responsive design principles
+- Build a complete multi-page web application without frameworks
+
+---
+
+## 🚀 How to Run
 
 Simply open `index.html` in your browser.
 
-No backend or build tools required.
+---
+
+## 🧠 What I Learned
+
+- Structuring a complete frontend project
+- Writing clean and maintainable HTML/CSS
+- Implementing client-side logic with JavaScript
+- Designing responsive layouts
+- Organizing educational content in a scalable way
+
+
