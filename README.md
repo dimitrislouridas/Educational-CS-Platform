@@ -79,4 +79,4 @@ Simply open `index.html` in your browser.
 - Designing responsive layouts
 - Organizing educational content in a scalable way
 
-
+Live demo available via GitHub Pages
